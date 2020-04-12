@@ -9,7 +9,7 @@ This app helps users to view, create and track daily workouts. The user is able 
 This application is meant to be an easy way for a user to track their physical fitness daily. From a business context, a consumer will reach their fitness goals quicker when they are able to track their workout progress. 
 
 ## Heroku Deployment Link:
-
+https://protected-journey-62289.herokuapp.com/
 
   
 ### Liscense
